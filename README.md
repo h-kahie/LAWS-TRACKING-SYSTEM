@@ -2,8 +2,6 @@
 
 ## Final Python OOP Project
 
-**Student Name:** Hassan Bille Hassan
-
 ---
 
 ## Project Description
@@ -152,10 +150,5 @@ python main.py
 
 This project demonstrates the use of Python OOP, file handling, and problem-solving skills to build a simple water customer management system.
 
----
 
-## Author
 
-**Hassan Bille Hassan**
-
-Final Python OOP Project
